@@ -1,1 +1,9 @@
-alert("IT'S WORKING");
+$(document).ready( function() {
+
+
+  $("#meow").click( function() {
+    $("#animals").append("Meow. ");
+  });
+
+
+});
