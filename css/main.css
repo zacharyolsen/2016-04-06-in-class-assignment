@@ -2,3 +2,7 @@ body {
   background-color: peachpuff;
   color: purple;
 }
+img {
+  width: 150px;
+  height: auto;
+}
